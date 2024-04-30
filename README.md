@@ -1,16 +1,16 @@
 # Curriculum Vitae
 ## Education
-- 2017.10 - 2020.09
-   - **Ph.D.**, Informatics
+- **PhD** Informatics (2020)
+   - 2017.10 - 2020.09
    - *Nagoya University*, Nagoya, Japan 
-- 2015.01 – 2017.01
-   - **[M.Sc.](https://dmcsweb.upb.edu.ph)**, Mathematics
+- **[MSc](https://dmcsweb.upb.edu.ph)** Mathematics (2017)
+   - 2015.01 – 2017.01
    - *University of the Philippines Baguio*, Baguio City, Philippines
-- 2011.06 – 2015.01
-   - **P.M.A.M.**, Actuarial Science
+- **PMAM** Actuarial Science (2015)
+   - 2011.06 – 2015.01
    - *University of the Philippines Diliman*, Quezon City, Philippines
-- 2007.06 – 2010.10
-   - **B.Sc.**, Mathematics
+- **BSc** Mathematics (2010)
+   - 2007.06 – 2010.10
    - *University of the Philippines Baguio*, Baguio City, Philippines
 
 
