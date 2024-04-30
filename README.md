@@ -18,12 +18,24 @@
 
 
 ## Teaching Experience
-- 2024.04 to date: **Part-Time Lecturer**, Kanazawa University, Kanazawa City, Japan (Graduate Course: Applied Analysis)
-- 2024.01 - 2024.04: **Adjunct Assistant Professor**, Temple University - Japan, Setagaya City, Japan (Undergraduate Course: College Algebra)
-- 2023.04 - 2023.06: **Part-Time Lecturer**, Kanazawa University, Kanazawa City, Japan (Graduate Course: Applied Analysis)
-- 2015.01 - 2015.06: **Lecturer**, University of the Philippines Baguio, Baguio City, Philippines (Undergraduate Course: Pre-Calculus)
-- 2013.11 - 2014.04: **Instructor**, Central Luzon State University, Science City of Muñoz, Nueva Ecija, Philippines (Undergraduate Courses: Mathematical Biology, Elementary Analysis, Calculus)
-- 2011.04 - 2013.10: **Lecturer**, Central Luzon State University, Science City of Muñoz, Nueva Ecija, Philippines (Undergraduate Courses: Elementary Analysis, Calculus, Pre-Calculus)
+- **Part-Time Lecturer**, Graduate Course: *Applied Analysis* <br />
+  Kanazawa University, Kanazawa City, Japan  <br />
+  2024.04 to date
+- **Adjunct Assistant Professor**, Undergraduate Course: *College Algebra* <br />
+  Temple University - Japan, Setagaya City, Japan <br />
+  2024.01 - 2024.04
+- **Part-Time Lecturer**, Graduate Course: *Applied Analysis* <br />
+  Kanazawa University, Kanazawa City, Japan <br />
+  2023.04 - 2023.06
+- **Lecturer**, Undergraduate Course: *Pre-Calculus* <br />
+  University of the Philippines Baguio, Baguio City, Philippines <br />
+  2015.01 - 2015.06
+- **Instructor**, Undergraduate Courses: *Mathematical Biology, Elementary Analysis, and Calculus*  <br />
+  Central Luzon State University, Science City of Muñoz, Nueva Ecija, Philippines  <br />
+  2013.11 - 2014.04
+- **Lecturer**, Undergraduate Courses: *Elementary Analysis, Calculus, and Pre-Calculus*  <br />
+  Central Luzon State University, Science City of Muñoz, Nueva Ecija, Philippines  <br />
+  2011.04 - 2013.10
 
 
 # Papers
