@@ -20,7 +20,7 @@
 - 2023.04 - 2023.06: **Part-Time Lecturer**, Kanazawa University, Kanazawa City, Japan (Graduate Course: Applied Analysis)
 - 2015.01 - 2015.06: **Lecturer**, University of the Philippines Baguio, Baguio City, Philippines (Undergraduate Course: Pre-Calculus)
 - 2013.11 - 2014.04: **Instructor**, Central Luzon State University, Science City of Muñoz, Nueva Ecija, Philippines (Undergraduate Courses: Mathematical Biology, Elementary Analysis, Calculus)
-- 2011.04 - 2013.10: Lecturer, Central Luzon State University, Science City of Muñoz, Nueva Ecija, Philippines (Undergraduate Courses: Elementary Analysis, Calculus, Pre-Calculus)
+- 2011.04 - 2013.10: **Lecturer**, Central Luzon State University, Science City of Muñoz, Nueva Ecija, Philippines (Undergraduate Courses: Elementary Analysis, Calculus, Pre-Calculus)
 
 
 # Papers
