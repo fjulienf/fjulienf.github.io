@@ -1,12 +1,3 @@
----
----
-
-@import "{{ site.theme }}";
-
-header {
-  display: none;
-}
-
 <style>
 H1{color:Blue !important;}
 H2{color:DarkOrange !important;}
