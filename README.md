@@ -4,7 +4,7 @@ H2{color:DarkOrange !important;}
 p{color:Black !important;}
 </style>
 
-<span style="font-size:3em;">[Papers](#Papers)</span>
+[<span style="font-size:2em;">Papers</span>](#Papers)
 
 
 # Curriculum Vitae
