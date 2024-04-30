@@ -13,3 +13,14 @@
 - 2015.01 - 2015.06: **Lecturer**, University of the Philippines Baguio, Baguio City, Philippines (Undergraduate Course: Pre-Calculus)
 - 2013.11 - 2014.04: **Instructor**, Central Luzon State University, Science City of Muñoz, Nueva Ecija, Philippines (Undergraduate Courses: Mathematical Biology, Elementary Analysis, Calculus)
 - 2011.04 - 2013.10: Lecturer, Central Luzon State University, Science City of Muñoz, Nueva Ecija, Philippines (Undergraduate Courses: Elementary Analysis, Calculus, Pre-Calculus)
+
+
+## Publication
+# Submitted and In Preparation
+
+# Published
+60. **Comoving mesh method for multi-dimensional moving boundary problems: mean-curvature flow and Stefan problems**  <br />
+    *Mathematics and Computers in Simulation, Volume 221, July 2024, Pages 589-605*  <br />
+    with M. Kimura and Y. Sunayama  <br />
+    DOI: [10.1016/j.matcom.2024.03.020](https://doi.org/10.1016/j.matcom.2024.03.020)
+    
