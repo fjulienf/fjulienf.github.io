@@ -15,12 +15,12 @@
 - 2011.04 - 2013.10: Lecturer, Central Luzon State University, Science City of Muñoz, Nueva Ecija, Philippines (Undergraduate Courses: Elementary Analysis, Calculus, Pre-Calculus)
 
 
-## Publication
-# Submitted and In Preparation
+# Papers
+## Submitted and In Preparation
 
-# Published
+## Published
 60. **Comoving mesh method for multi-dimensional moving boundary problems: mean-curvature flow and Stefan problems**  <br />
-    *Mathematics and Computers in Simulation, Volume 221, July 2024, Pages 589-605*  <br />
+    <code style="color:lightskyblue">*Mathematics and Computers in Simulation, Volume 221, July 2024, Pages 589-605*</code>  <br />
     with M. Kimura and Y. Sunayama  <br />
     DOI: [10.1016/j.matcom.2024.03.020](https://doi.org/10.1016/j.matcom.2024.03.020)
     
