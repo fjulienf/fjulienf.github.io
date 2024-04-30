@@ -5,3 +5,11 @@
 - 2011.06 – 2015.01:	**P.M.A.M.**, Actuarial Science, *University of the Philippines Diliman*, Quezon City, Philippines
 - 2007.06 – 2010.10:	**B.Sc.**, Mathematics, *University of the Philippines Baguio*, Baguio City, Philippines
 
+
+## Teaching Experience
+- 2024.04 to date: **Part-Time Lecturer**, Kanazawa University, Kanazawa City, Japan (Graduate Course: Applied Analysis)
+- 2024.01 - 2024.04: **Adjunct Assistant Professor**, Temple University - Japan, Setagaya City, Japan (Undergraduate Course: College Algebra)
+- 2023.04 - 2023.06: **Part-Time Lecturer**, Kanazawa University, Kanazawa City, Japan (Graduate Course: Applied Analysis)
+- 2015.01 - 2015.06: **Lecturer**, University of the Philippines Baguio, Baguio City, Philippines (Undergraduate Course: Pre-Calculus)
+- 2013.11 - 2014.04: **Instructor**, Central Luzon State University, Science City of Muñoz, Nueva Ecija, Philippines (Undergraduate Courses: Mathematical Biology, Elementary Analysis, Calculus)
+- 2011.04 - 2013.10: Lecturer, Central Luzon State University, Science City of Muñoz, Nueva Ecija, Philippines (Undergraduate Courses: Elementary Analysis, Calculus, Pre-Calculus)
