@@ -4,14 +4,17 @@ H2{color:DarkOrange !important;}
 p{color:Black !important;}
 </style>
 
+<span style="font-size:3em;">[Papers](#Papers)</span>
+
+
 # Curriculum Vitae
-see [Papers](#Papers)
+
 ## Education
 - **PhD** Informatics (2020) <br /> 
 *Nagoya University*, Nagoya, Japan <br /> 
 2017.10 - 2020.09
   
-- **[MSc](https://dmcsweb.upb.edu.ph)** Mathematics (2017) <br /> 
+- **MSc** Mathematics (2017) <br /> 
 *University of the Philippines Baguio*, Baguio City, Philippines <br /> 
 2015.01 – 2017.01
 
